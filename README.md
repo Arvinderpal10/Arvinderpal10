@@ -1,8 +1,5 @@
-<div style="background-color:Grey;">
 <h1 align="center">Hi 👋, I'm Arvinder Pal</h1>
 <h3 align="center">Senior Software Developer - Golang and Kafka</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvinderpal10" alt="arvinderpal10" /></a> </p>
 
 - 📫 How to reach me **arvinderpal10@gmail.com**
 
@@ -19,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvinderpal10&show_icons=true&locale=en" alt="arvinderpal10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvinderpal10&" alt="arvinderpal10" /></p>
-</div>
