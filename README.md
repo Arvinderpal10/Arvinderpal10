@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/arvinder-pal-know-me/" target="blank" title="LinkedIn profile"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvinder-pal-know-me/" height="40" width="70" /></a>
 <a href="https://www.teacheron.com/tutor/8h6P" target="blank" title="Teacher-On profile"><img align="center" src="https://assets2.teacheron.com/resources/assets/img/customImages/teacheronLogoOnly.png?t=1664102538504" alt="arvinder-pal-know-me/" height="40" width="70" /></a>
 </p>
-<span>&nbsp;LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teacher-On </span>
+
 
 <h2><i>Technical Skills</i></h2>
 
@@ -28,14 +28,14 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="BootStrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
 </a>
 </p>
-<span>&nbsp;HTML5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp;Sass &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Redux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ReactJs &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bootstrap  </span>
+
 
 - <h3><i> BackEnd :</i></h3>
 <p>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a>  
 </p>
-<span>&nbsp;Golang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Php </span>
+
 
 - <h3><i> Databases :</i></h3>
 <p>
@@ -43,7 +43,6 @@
  </a>&nbsp;&nbsp;
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
 </p>
-<span>&nbsp;MySQL &nbsp;&nbsp;&nbsp;&nbsp;MongoDB </span>
 
 - <h3><i> Programming Languages :</i></h3>
 <p>
@@ -52,7 +51,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
  
 </p>
- <span>&nbsp;&nbsp;&nbsp;&nbsp;C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python </span>
+ 
 
  
 - <h3><i> Tools :</i></h3>
@@ -66,7 +65,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/> </a>   
 </p>
-<span>&nbsp;Docker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grafana &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kubernetes  </span> <br>
+
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvinderpal10&show_icons=true&locale=en&layout=compact" alt="arvinderpal10" /></p>
 
