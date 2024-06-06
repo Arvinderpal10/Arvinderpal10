@@ -1,3 +1,4 @@
+<div style="background-color:Grey;">
 <h1 align="center">Hi 👋, I'm Arvinder Pal</h1>
 <h3 align="center">Senior Software Developer - Golang and Kafka</h3>
 
@@ -18,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvinderpal10&show_icons=true&locale=en" alt="arvinderpal10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvinderpal10&" alt="arvinderpal10" /></p>
+</div>
