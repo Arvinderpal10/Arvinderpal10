@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arvinder Pal</h1>
 <h3 align="center">Senior Software Developer - Golang and Kafka</h3>
 
-- 💬 Ask me about **Golang , Kafka , Frontend Development (HTML, CSS, JavaScript , ReactJS), Php , MySQL , MongoDB**
+- 💬 Skills : **Golang , Kafka , Frontend Development (HTML, CSS, JavaScript , ReactJS), Php , MySQL , MongoDB**
 
 - 📫 How to reach me **arvinderpal10@gmail.com**
 
