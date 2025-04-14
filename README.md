@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arvinder Pal</h1>
-<h3 align="center">Senior Software Developer - Golang and Kafka</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=false&vCenter=true&width=600&lines=Hello+World!+I'm+Arvinder+Pal;Senior+Software+Developer;Golang+Kafka+Developer" alt="Typing SVG" />
+</p>
+</span>
+<h1 align="center">Arvinder Pal</h1>
+<h3 align="center">Senior Software Developer at HCLTech - Golang and Kafka</h3>
 
 - 💬 Skills : **Golang , Kafka , Frontend Development (HTML, CSS, JavaScript , ReactJS), Php , MySQL , MongoDB**
 
@@ -66,9 +70,19 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/> </a>   
 </p>
 
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvinderpal10&show_icons=true&locale=en&layout=compact" alt="arvinderpal10" /></p>
+## 🏆 Achievements & Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvinderpal10&show_icons=true&locale=en" alt="arvinderpal10" /></p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arvinderpal10&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" style="margin-bottom: 10px;" />
+  </a>
+</p>
+<span align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arvinderpal10&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" style="margin-bottom: 10px;margin-rightt:120px;",width="50%;" />
+</span>
+<span>&nbsp;&nbsp;&nbsp;</span>
+<span align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinderpal10&theme=onedark" alt="GitHub Streak" style="margin-bottom: 10px;" ,width="50%;" />
+</span>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvinderpal10&" alt="arvinderpal10" /></p>
+
