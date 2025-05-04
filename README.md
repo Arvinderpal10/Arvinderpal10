@@ -19,14 +19,13 @@
 <h2><i>Technical Skills</i></h2>
 
 - <h3><i> FrontEnd :</i></h3>
-<p> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> &nbsp;&nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.akademus.es/blog/wp-content/uploads/2018/07/java.png" alt="javascript" width="60" height="60"/> </a>
- &nbsp;&nbsp;
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.yTHZn03tmHatIKkLU-xtKwHaHa?rs=1&pid=ImgDetMain" alt="sass" width="70" height="70"/> </a> 
-&nbsp;&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></span>
+<span><img src="https://www.akademus.es/blog/wp-content/uploads/2018/07/java.png" alt="javascript" width="60" height="60"/></span>
+<span><img src="https://th.bing.com/th/id/OIP.yTHZn03tmHatIKkLU-xtKwHaHa?rs=1&pid=ImgDetMain" alt="sass" width="60" height="60"/></span>
+
+<p>
+
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/reactjs/redux/24bab8f05987542ffd186c19400a80f12f717492/logo/logo.png" alt="redux" width="60" height="60"/> </a>&nbsp;&nbsp; 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="BootStrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
